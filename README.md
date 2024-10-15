@@ -14,7 +14,6 @@ The research follows the ASSERT model: asking questions, searching for data, str
 Results
 
 The analysis reveals distinct patterns across countries:
-
 Employment-to-Population Ratio: Stable in developed countries, with slight drops in China and India. A noticeable decline in youth employment is observed.
 Employment Types: Developed nations show higher wage employment, while self-employment is prevalent in developing countries. Vulnerable employment is decreasing globally, led by China.
 Industry Analysis: A shift from agriculture to industry and services, particularly in China and India, with developed countries maintaining low agricultural employment.
